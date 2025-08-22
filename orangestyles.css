@@ -1,0 +1,11 @@
+      a {
+        color: #ff9633 !important;
+      }
+      button[data-action-button-primary] {
+        background-color: orange !important;
+        color: white !important;
+      }
+
+    
+      #custom-prompt-logo {
+        background-image: url('https://i.imgur.com/vjPjVga.png');

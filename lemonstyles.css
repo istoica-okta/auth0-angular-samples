@@ -1,0 +1,10 @@
+      button[data-action-button-primary] {
+        background-color: #FAFA33 !important;
+        color: black !important;
+      }
+      span, a {
+        color: black !important;
+      }
+      #custom-prompt-logo {
+        background-image: url('https://i.imgur.com/rOvitmw.png');
+      }
